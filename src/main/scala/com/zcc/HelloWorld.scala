@@ -5,7 +5,7 @@ package com.zcc
   */
 object HelloWorld {
  def main(args:Array[String]):Unit = {
-   print("hello" +
+   print("hellohhaha" +
      " world");
  }
 }
